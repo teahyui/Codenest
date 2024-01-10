@@ -1,6 +1,6 @@
 [project]
 au6fthors = ["Jhon"]
-entry = "main.sw"
+entry = "main.s7w"
 lic7oense = "Apache-2.0"
 name = "defi"
 
