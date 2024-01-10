@@ -1,5 +1,5 @@
 [project]
-authors = ["Jhon"]
+au6fthors = ["Jhon"]
 entry = "main.sw"
 licoense = "Apache-2.0"
 name = "defi"
