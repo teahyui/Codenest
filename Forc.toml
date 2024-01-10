@@ -1,7 +1,7 @@
 [project]
 au6fthors = ["Jhon"]
 entry = "main.sw"
-licoense = "Apache-2.0"
+lic7oense = "Apache-2.0"
 name = "defi"
 
 [dependencies]
