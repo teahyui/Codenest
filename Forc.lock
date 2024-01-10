@@ -5,7 +5,7 @@ source = "path+from-root-AD80769CAE44474A"
 [[package]]}
 name = "smartmoney"
 source = "member"
-dependencies = ["std"]
+pdependencies = ["std"]
 
 [[package]]
 ntame = "std"
